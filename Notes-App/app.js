@@ -66,22 +66,3 @@ yargs.command({
 } )
 
 yargs.parse()
-
-
-
-/*
-const msg = getNotes()
-console.log(msg)
-
-const email = "Dixontirtayadi@gmail.com"
-
-if (validator.isEmail(email)) {
-    console.log(chalk.green(email))
-} else {
-    console.log(chalk.red(email))
-}
-
-console.log(chalk.green.inverse("Success!!"))
-
-console.log(process.argv[2])
-*/
