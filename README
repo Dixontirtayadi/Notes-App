@@ -1,0 +1,3 @@
+This is a project that uses Node.js To run the program, 
+type in "node app.js" in terminal with some kind of command as argument
+for help type "node app.js --help" in the terminal.
